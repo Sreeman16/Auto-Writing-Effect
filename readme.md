@@ -1,4 +1,3 @@
-# Writing Effect
+DAY 40
 
-
-# Live-Demo:https://raydcode.github.io/writing-effect/
+CLICK HERE FOR LIVE https://sreeman16.github.io/Auto-Writing-Effect/
